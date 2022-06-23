@@ -1,0 +1,6 @@
+name = "(V2:ME)Jman's HFM"
+path = "mod/jHFM"
+user_dir = "jHFM"
+replace_path = "history/provinces"
+replace_path = "events"
+replace_path = "decisions"
